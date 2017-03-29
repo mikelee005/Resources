@@ -1,0 +1,28 @@
+• Install visual studio
+• Create new project – asp.net WebApi
+• Install nuget package ‘ WikiDataProvider.Data’
+
+• Create folders:   Services -> copy BaseService.cs
+
+• Create folders:   Models/Responses -> copy all files
+• Create folders:   Models/ViewModels -> copy BaseViewModel.cs
+• Create folders:   Models/Requests -> any file
+
+• Create folders:   Domain -> any file
+
+• Create folders:   Controllers/Api -> any file
+
+
+• Create Assets folder
+
+• Install Bower packages:    jQuery.js, bootstrap.js, angular.js
+       bower install jquery
+
+• Copy all Content folder:   css, images, js folders from Theme
+
+• 
+• 
+• 
+• 
+• 
+• 
